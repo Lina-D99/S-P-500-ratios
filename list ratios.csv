@@ -1,138 +1,138 @@
 Sheet Name;Ratio/Column;Market Optimal Level
 COM;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;ROE LF;> 15%
-;P/E;15–25
-;EBITDA to Net Sales:Q;> 20%
-;FCF T12M;Positive and growing
-;Revenue T12M;Positive and growing
-;Gr PoP of Revenue:CQ T12M;> 10% YoY growth
-;MSCI ESG Rtg;AAA or AA
+COM;Tot Eqty LF;N/A
+COM;ROE LF;> 15%
+COM;P/E;15–25
+COM;EBITDA to Net Sales:Q;> 20%
+COM;FCF T12M;Positive and growing
+COM;Revenue T12M;Positive and growing
+COM;Gr PoP of Revenue:CQ T12M;> 10% YoY growth
+COM;MSCI ESG Rtg;AAA or AA
 STAPLES;Dvd Ind Yld;> 2.5%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 15%
-;Inv Turnover LF;> 6x annually
-;Curr Ratio LF;1.5–2.5
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive and stable
-;P/E;15–25
-;Revenue T12M;Positive growth YoY
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
+STAPLES;PE/G Pl Yld;< 1.5
+STAPLES;EBITDA to Net Sales:Q;> 15%
+STAPLES;Inv Turnover LF;> 6x annually
+STAPLES;Curr Ratio LF;1.5–2.5
+STAPLES;Net Debt LF;< 2x EBITDA
+STAPLES;Tot Eqty LF;N/A
+STAPLES;FCF T12M;Positive and stable
+STAPLES;P/E;15–25
+STAPLES;Revenue T12M;Positive growth YoY
+STAPLES;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+STAPLES;MSCI ESG Rtg;AAA or AA
 DISCRETIONARY;Dvd Ind Yld;> 1.5%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 10%
-;Inv Turnover LF;> 5x annually
-;Curr Ratio LF;1.5–2.5
-;Net Debt LF;< 2.5x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive and consistent
-;P/E;20–30
-;Revenue T12M;Growing > 5% YoY
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;P/S;< 2
+DISCRETIONARY;PE/G Pl Yld;< 1.5
+DISCRETIONARY;EBITDA to Net Sales:Q;> 10%
+DISCRETIONARY;Inv Turnover LF;> 5x annually
+DISCRETIONARY;Curr Ratio LF;1.5–2.5
+DISCRETIONARY;Net Debt LF;< 2.5x EBITDA
+DISCRETIONARY;Tot Eqty LF;N/A
+DISCRETIONARY;FCF T12M;Positive and consistent
+DISCRETIONARY;P/E;20–30
+DISCRETIONARY;Revenue T12M;Growing > 5% YoY
+DISCRETIONARY;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+DISCRETIONARY;MSCI ESG Rtg;AAA or AA
+DISCRETIONARY;P/S;< 2
 ENERGY;Dvd Ind Yld;> 3%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 20%
-;Inv Turnover LF;N/A
-;Curr Ratio LF;> 1.5
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;< 15
-;Revenue T12M;Stable or increasing
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;ROIC LF;> 12%
-;P/B;< 2
+ENERGY;PE/G Pl Yld;< 1.5
+ENERGY;EBITDA to Net Sales:Q;> 20%
+ENERGY;Inv Turnover LF;N/A
+ENERGY;Curr Ratio LF;> 1.5
+ENERGY;Net Debt LF;< 2x EBITDA
+ENERGY;Tot Eqty LF;N/A
+ENERGY;FCF T12M;Positive
+ENERGY;P/E;< 15
+ENERGY;Revenue T12M;Stable or increasing
+ENERGY;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+ENERGY;MSCI ESG Rtg;AAA or AA
+ENERGY;ROIC LF;> 12%
+ENERGY;P/B;< 2
 FINANCIALS;Dvd Ind Yld;> 3%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 20%
-;Inv Turnover LF;N/A
-;Curr Ratio LF;N/A
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;< 15
-;Revenue T12M;Positive and growing
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;Annualized Net Interest Margin;> 3%
-;Effic Ratio LF;< 60%
-;P/B;< 1.5
+FINANCIALS;PE/G Pl Yld;< 1.5
+FINANCIALS;EBITDA to Net Sales:Q;> 20%
+FINANCIALS;Inv Turnover LF;N/A
+FINANCIALS;Curr Ratio LF;N/A
+FINANCIALS;Net Debt LF;< 2x EBITDA
+FINANCIALS;Tot Eqty LF;N/A
+FINANCIALS;FCF T12M;Positive
+FINANCIALS;P/E;< 15
+FINANCIALS;Revenue T12M;Positive and growing
+FINANCIALS;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+FINANCIALS;MSCI ESG Rtg;AAA or AA
+FINANCIALS;Annualized Net Interest Margin;> 3%
+FINANCIALS;Effic Ratio LF;< 60%
+FINANCIALS;P/B;< 1.5
 HEALTHCARE;Dvd Ind Yld;> 1.5%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 15%
-;Inv Turnover LF;N/A
-;Curr Ratio LF;> 2
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;20–30
-;Revenue T12M;Growing > 5% YoY
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;R&D Exp T12M;> 10% of revenue
-;MSCI ESG Rtg;
-;R&D Exp T12M;
+HEALTHCARE;PE/G Pl Yld;< 1.5
+HEALTHCARE;EBITDA to Net Sales:Q;> 15%
+HEALTHCARE;Inv Turnover LF;N/A
+HEALTHCARE;Curr Ratio LF;> 2
+HEALTHCARE;Net Debt LF;< 2x EBITDA
+HEALTHCARE;Tot Eqty LF;N/A
+HEALTHCARE;FCF T12M;Positive
+HEALTHCARE;P/E;20–30
+HEALTHCARE;Revenue T12M;Growing > 5% YoY
+HEALTHCARE;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+HEALTHCARE;MSCI ESG Rtg;AAA or AA
+HEALTHCARE;R&D Exp T12M;> 10% of revenue
+HEALTHCARE;MSCI ESG Rtg;
+HEALTHCARE;R&D Exp T12M;
 TECH;Dvd Ind Yld;> 1%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 15%
-;Inv Turnover LF;> 5x annually
-;Curr Ratio LF;> 2
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive and growing
-;P/E;20–40
-;Revenue T12M;Positive growth YoY
-;Gr PoP of Revenue:CQ T12M;> 10% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;FCF Yld;> 5%
-;P/S;< 4
+TECH;PE/G Pl Yld;< 1.5
+TECH;EBITDA to Net Sales:Q;> 15%
+TECH;Inv Turnover LF;> 5x annually
+TECH;Curr Ratio LF;> 2
+TECH;Net Debt LF;< 2x EBITDA
+TECH;Tot Eqty LF;N/A
+TECH;FCF T12M;Positive and growing
+TECH;P/E;20–40
+TECH;Revenue T12M;Positive growth YoY
+TECH;Gr PoP of Revenue:CQ T12M;> 10% growth YoY
+TECH;MSCI ESG Rtg;AAA or AA
+TECH;FCF Yld;> 5%
+TECH;P/S;< 4
 MAT;Dvd Ind Yld;> 2.5%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 15%
-;Inv Turnover LF;> 6x annually
-;Curr Ratio LF;> 1.5
-;Net Debt LF;< 2.5x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;< 20
-;Revenue T12M;Positive growth YoY
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;Inv Turnover LF.1;> 6x annually
-;P/B;< 2
+MAT;PE/G Pl Yld;< 1.5
+MAT;EBITDA to Net Sales:Q;> 15%
+MAT;Inv Turnover LF;> 6x annually
+MAT;Curr Ratio LF;> 1.5
+MAT;Net Debt LF;< 2.5x EBITDA
+MAT;Tot Eqty LF;N/A
+MAT;FCF T12M;Positive
+MAT;P/E;< 20
+MAT;Revenue T12M;Positive growth YoY
+MAT;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+MAT;MSCI ESG Rtg;AAA or AA
+MAT;Inv Turnover LF.1;> 6x annually
+MAT;P/B;< 2
 REAL ESTATE;Dvd Ind Yld;> 3%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 20%
-;Inv Turnover LF;N/A
-;Curr Ratio LF;> 1.5
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;< 20
-;Revenue T12M;Positive growth YoY
-;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;Gr PoP of FFO:CQ T12M;> 5% growth YoY
-;Prem / Disc to NAV PS %;Near zero (fair value)
-;Net Asset Value;N/A
-;Ocpncy Rt;> 90%
-;Div Yield;> 3%
+REAL ESTATE;PE/G Pl Yld;< 1.5
+REAL ESTATE;EBITDA to Net Sales:Q;> 20%
+REAL ESTATE;Inv Turnover LF;N/A
+REAL ESTATE;Curr Ratio LF;> 1.5
+REAL ESTATE;Net Debt LF;< 2x EBITDA
+REAL ESTATE;Tot Eqty LF;N/A
+REAL ESTATE;FCF T12M;Positive
+REAL ESTATE;P/E;< 20
+REAL ESTATE;Revenue T12M;Positive growth YoY
+REAL ESTATE;Gr PoP of Revenue:CQ T12M;> 5% growth YoY
+REAL ESTATE;MSCI ESG Rtg;AAA or AA
+REAL ESTATE;Gr PoP of FFO:CQ T12M;> 5% growth YoY
+REAL ESTATE;Prem / Disc to NAV PS %;Near zero (fair value)
+REAL ESTATE;Net Asset Value;N/A
+REAL ESTATE;Ocpncy Rt;> 90%
+REAL ESTATE;Div Yield;> 3%
 UTILITIES;Dvd Ind Yld;> 3%
-;PE/G Pl Yld;< 1.5
-;EBITDA to Net Sales:Q;> 15%
-;Inv Turnover LF;N/A
-;Curr Ratio LF;> 1.5
-;Net Debt LF;< 2x EBITDA
-;Tot Eqty LF;N/A
-;FCF T12M;Positive
-;P/E;< 20
-;Revenue T12M;Stable growth YoY
-;Gr PoP of Revenue:CQ T12M;> 3% growth YoY
-;MSCI ESG Rtg;AAA or AA
-;Div Yield;> 3%
-;FCF Yld;> 5%
+UTILITIES;PE/G Pl Yld;< 1.5
+UTILITIES;EBITDA to Net Sales:Q;> 15%
+UTILITIES;Inv Turnover LF;N/A
+UTILITIES;Curr Ratio LF;> 1.5
+UTILITIES;Net Debt LF;< 2x EBITDA
+UTILITIES;Tot Eqty LF;N/A
+UTILITIES;FCF T12M;Positive
+UTILITIES;P/E;< 20
+UTILITIES;Revenue T12M;Stable growth YoY
+UTILITIES;Gr PoP of Revenue:CQ T12M;> 3% growth YoY
+UTILITIES;MSCI ESG Rtg;AAA or AA
+UTILITIES;Div Yield;> 3%
+UTILITIES;FCF Yld;> 5%
